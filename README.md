@@ -64,3 +64,16 @@
 在报告结论部分，要求引用本模板的 GitHub 项目。可使用以下命令在 `.tex` 文件中引用：
 ```latex
 \cite{wang2024nuist}
+  ```
+## 贡献
+
+欢迎提交 Issue 和 Pull Request 来帮助改进该模板。
+
+## 联系方式
+
+如有任何问题，欢迎通过以下方式联系作者：
+
+- **作者**：Ziheng Wang
+- **邮箱**：[zhwang@nuist.edu.cn](mailto:zhwang@nuist.edu.cn)
+- **GitHub**：[Nickory/Nuist-expriment-report-latex](https://github.com/Nickory/Nuist-expriment-report-latex)
+
