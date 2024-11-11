@@ -10,6 +10,12 @@
 - `README.md` - 项目说明文件。
 - `Nuist-expriment-report-latex.zip` - 模板的压缩包，便于下载和使用。
 
+## 模板预览
+
+以下是该实验报告模板生成的 PDF 文件预览：
+
+![报告模板预览](report_preview.png)
+
 ## 快速开始
 
 1. **克隆或下载项目**
